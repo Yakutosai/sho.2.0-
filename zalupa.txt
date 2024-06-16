@@ -24,3 +24,4 @@ ef fgew g
   right the text normal
 sekond do
 third do
+change info
